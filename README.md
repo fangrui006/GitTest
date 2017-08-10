@@ -1,3 +1,4 @@
+```C++
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -7,3 +8,4 @@ int main() {
     cout << "Hello World, Rui" << endl;
     return 0;
 }
+```
